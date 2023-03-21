@@ -6,7 +6,7 @@
 
   Languages and Tools:
   
-  Visual Studio Code TypeScript ,Keycloak ,HTML5 ,CSS3 ,Tableau ,JavaScript ,ReactJS ,Node.js ,ExpressJs ,SQL ,MongoDB ,firebase ,Gitlab, GitHub
+  Visual Studio Code TypeScript ,JavaScript ,Keycloak ,OneUI ,HTML5 ,CSS3 ,Tableau ,ReactJS ,Node.js ,ExpressJs ,SQL ,MongoDB ,firebase ,Gitlab, GitHub
 
 
 
